@@ -3,6 +3,8 @@ Drawing and visualizing bounding boxes and key points.
 
 MS-COCO: https://cocodataset.org/#download
 
+Annotation files: https://github.com/PINTO0309/coco-viewer/releases/download/annotations/annotations.tar.gz
+
 ```python
 python boundingbox_viewer.py -h
 
